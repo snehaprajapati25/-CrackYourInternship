@@ -1,2 +1,2 @@
 #CrackYourInternship
-45 Days DSA Challenge
+Arsh Goyal Internship Challenge
