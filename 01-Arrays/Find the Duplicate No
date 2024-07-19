@@ -5,7 +5,7 @@ class Solution {
         int fast = nums[0];
 
         do{
-            slow = nums[slow];
+            slow = nums[slow];,,,
             fast = nums[nums[fast]];hh
         }while(slow != fast);
 
